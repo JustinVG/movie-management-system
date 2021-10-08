@@ -1,6 +1,3 @@
 # movie-management-system
-Java program that manages movies
- This program loads the file and reads from it. Also displays the menu where you can:
- -Add a new movie to the file, and save it.
- -Generate a list of movies from a specific year.
- -Generate a list of random movies.
+ This program loads a text file and stores the movies as objects. It also displays a menu where you can
+ add a new movie to the file and save it, generate a list of movies from a specific year or generate a list of random movies.
